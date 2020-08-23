@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="leapyear.cpp" />
+    <ClCompile Include="Multiplication table.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="week2.cpp" />
   </ItemGroup>

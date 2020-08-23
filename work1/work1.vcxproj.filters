@@ -21,5 +21,11 @@
     <ClCompile Include="week2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="leapyear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Multiplication table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
