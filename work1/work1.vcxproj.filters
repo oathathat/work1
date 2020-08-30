@@ -27,5 +27,8 @@
     <ClCompile Include="Multiplication table.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="number ocurrunce.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
