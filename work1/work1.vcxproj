@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArraySum.cpp" />
     <ClCompile Include="leapyear.cpp" />
     <ClCompile Include="Multiplication table.cpp" />
     <ClCompile Include="number ocurrunce.cpp" />
