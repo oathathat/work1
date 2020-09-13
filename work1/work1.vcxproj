@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="ArraySum.cpp" />
     <ClCompile Include="leapyear.cpp" />
+    <ClCompile Include="MatrixAddition.cpp" />
     <ClCompile Include="Multiplication table.cpp" />
     <ClCompile Include="number ocurrunce.cpp" />
     <ClCompile Include="ReversePrint.cpp" />
