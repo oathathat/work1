@@ -42,5 +42,8 @@
     <ClCompile Include="NumberStair.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StringP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
