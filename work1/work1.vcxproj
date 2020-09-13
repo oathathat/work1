@@ -144,6 +144,7 @@
     <ClCompile Include="MatrixAddition.cpp" />
     <ClCompile Include="Multiplication table.cpp" />
     <ClCompile Include="number ocurrunce.cpp" />
+    <ClCompile Include="NumberStair.cpp" />
     <ClCompile Include="ReversePrint.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="week2.cpp" />
