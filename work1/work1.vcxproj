@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ArraySum.cpp" />
+    <ClCompile Include="hori_bar_graph.cpp" />
     <ClCompile Include="leapyear.cpp" />
     <ClCompile Include="MatrixAddition.cpp" />
     <ClCompile Include="Multiplication table.cpp" />
