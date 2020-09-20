@@ -147,6 +147,7 @@
     <ClCompile Include="number ocurrunce.cpp" />
     <ClCompile Include="NumberStair.cpp" />
     <ClCompile Include="ReversePrint.cpp" />
+    <ClCompile Include="Rotation.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="StringP.cpp" />
     <ClCompile Include="week2.cpp" />
