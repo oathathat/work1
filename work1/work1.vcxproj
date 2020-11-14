@@ -143,6 +143,7 @@
     <ClCompile Include="Bigram.cpp" />
     <ClCompile Include="CarPark.cpp" />
     <ClCompile Include="CharReplace.cpp" />
+    <ClCompile Include="Gardening.cpp" />
     <ClCompile Include="Histrogram.cpp" />
     <ClCompile Include="hori_bar_graph.cpp" />
     <ClCompile Include="leapyear.cpp" />
