@@ -66,5 +66,8 @@
     <ClCompile Include="Gardening.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="fightingStar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
